@@ -1,0 +1,106 @@
+.black{
+    background-color: #282c34;
+  }
+  
+  .white{
+      background-color: white;
+  }
+
+.whiteTxt{
+    color: white;
+    font-weight: bold;
+
+}
+  
+.blackTxt{
+    color: black;
+    font-weight: bold;
+}
+  .title{
+      color: rgb(0, 0, 0);
+      max-width: fit-content;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  .center{
+      max-width: fit-content;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  .input{
+      border-color: purple;
+      width: 500px;
+      height: 25px;
+      border-radius: 5px;
+  }
+
+  .purple{
+    border-color: rgb(159, 76, 236);
+    background-color: rgb(159, 76, 236);
+  }
+  
+  .button1{
+      margin-top: 0%;
+      margin-bottom: 0%;
+      margin-left: 5px;
+      margin-right: 5px;
+      height: 25px;
+      width: 75px;
+      border-color: rgb(159, 76, 236);
+      background-color: rgb(159, 76, 236);
+      border-radius: 5px;
+  }
+  
+  .switchMode{
+      margin-left: 5px;
+      margin-right: 5px;
+      height: 25px;
+      width: 25px;
+      border-color: rgb(159, 76, 236);
+      background-color: rgb(159, 76, 236);
+      border-radius: 5px;
+  }
+  
+  .addbtn{
+      margin-bottom: 0%;
+      border-color: rgb(159, 76, 236);
+      background-color: rgb(159, 76, 236);
+      border-radius: 5px;
+  }
+  
+  .note{
+      width: 400px;
+      height: 40px;
+      font-weight: bold;
+  }
+  
+  .notes{
+      list-style-type: none;
+  }
+  
+  .checkboxinput{
+      width: 40px;
+      height: 20px;
+      background-color: rgb(159, 76, 236);
+  }
+
+
+  .dialog{
+    
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .dialogcontent{
+    border-color: rgb(159, 76, 236);
+  }
+
+
+  .MainDiv{
+    height: 800px;
+    margin-top: 0%;
+    width: 100%;
+    position: relative;
+  }
